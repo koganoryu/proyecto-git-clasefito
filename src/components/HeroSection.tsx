@@ -17,11 +17,10 @@ export function HeroSection() {
             </Badge>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black leading-tight mb-6">
-              Crea productos digitales con{" "}
+              BIENVENIDOS A LA FIESTA DE LA{" "}
               <span className="bg-gradient-to-r from-purple-400 to-violet-300 bg-clip-text text-transparent">
                 IA
-              </span>{" "}
-              y conviértete en el PM PRO 2026
+              </span>
             </h1>
 
             <p className="text-lg text-slate-300 mb-8 leading-relaxed">
